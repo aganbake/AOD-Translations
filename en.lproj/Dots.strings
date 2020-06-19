@@ -1,14 +1,14 @@
 {
-    "Dots" = "Dots";
-    "Show Dots" = "Show Dots";
-    "Use Randomized Color" = "Use Randomized Color";
-    "Dots Position (Y)" = "Dots Position (Y)";
-    "Size" = "Size";
+    "Dots" = "Puntos";
+    "Show Dots" = "Mostrar Puntos";
+    "Use Randomized Color" = "Usar Color al Azar";
+    "Dots Position (Y)" = "Pocisión de los Puntos (Y)";
+    "Size" = "Tamaño";
 
-    "Pulse Effect" = "Pulse Effect";
-    "Size" = "Size";
-    "Duration" = "Duration";
-    "Interval" = "Interval";
-    "Repeat Count" = "Repeat Count";
-    "0 to repeat infinity" = "0 to repeat infinity";
+    "Pulse Effect" = "Efecto de Pulso";
+    "Size" = "Tamaño";
+    "Duration" = "Duración";
+    "Interval" = "Intervalos";
+    "Repeat Count" = "Repetir Conteo";
+    "0 to repeat infinity" = "0 Para Repetir Infinitamente";
 }
