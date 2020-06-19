@@ -1,11 +1,11 @@
 {
-    "Icons" = "Icons";
-    "Show Notification Icons" = "Show Notification Icons";
-    "Tap Icon to Show Notification" = "Tap to Show Notification";
-    "Icon Fade Animation" = "Icon Fade Animation";
-    "Grayscale Icon"  = "Grayscale Icon";
-    "Allow Putting the Same Icon" = "Allow Putting the Same Icon";
-    "Max Icon Per Rows" = "Max Icon Per Rows";
-    "Change Icon Size" = "Change Icon Size";
-    "Change space between icons" = "Change Space between Icons";
+    "Icons" = "Íconos";
+    "Show Notification Icons" = "Mostrar Notificaciones de Íconos";
+    "Tap Icon to Show Notification" = "Tocar Para Mostrar Notificaciones";
+    "Icon Fade Animation" = "Animación de desvanecer en Íconos ";
+    "Grayscale Icon"  = "Íconos en Escala de Grises";
+    "Allow Putting the Same Icon" = "Habilitar poner mismos Íconos";
+    "Max Icon Per Rows" = "Máxima Cantidad de Iconos por Fila";
+    "Change Icon Size" = "Cambiar Tamaño de Íconos";
+    "Change space between icons" = "Cambiar el espacio entre Íconos";
 }
