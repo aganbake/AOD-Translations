@@ -1,39 +1,39 @@
 {
-"Options" = "Options";
+"Options" = "Opciones";
 
-"Show XenHTML" = "Show XenHTML";
-"Show LockPlus Pro" = "Show LockPlus Pro";
+"Show XenHTML" = "Mostrar XenHTML";
+"Show LockPlus Pro" = "Mostrar LockPlus Pro";
 
-"No wakeup animation" = "No wakeup animation";
-"Enable LPM while showing" = "Enable LPM while showing";
-"Disable while DND" = "Disable while DND";
-"Enable only while charging" = "Enable only while charging";
-"Disable while charging" = "Disable while charging";
-"Dismiss when fully charged" = "Dismiss when fully charged";
+"No wakeup animation" = "Sin animación al Despertar";
+"Enable LPM while showing" = "Habilitar LPM Mientras se Muestra";
+"Disable while DND" = "Desactivar cuando 'No Molestar'";
+"Enable only while charging" = "Activar Solo cuando está cargando";
+"Disable while charging" = "Desactivar cuando está cargando";
+"Dismiss when fully charged" = "Descartar al finalizar la Carga";
 
-"Brightness" = "Brightness";
-"Set Brightness" = "Set Brightness";
-"Brightness While Charging" = "Brightness While Charging";
+"Brightness" = "Brillo";
+"Set Brightness" = "Definir Brillo";
+"Brightness While Charging" = "Brillo al Cargar";
 
-"Proximity Sensor" = "Proximity Sensor";
-"Dismiss in Pocket" = "Dismiss in Pocket";
-"Reshow when taken out from pocket" = "Reshow when taken out from pocket";
+"Proximity Sensor" = "Sensor de Proximidad";
+"Dismiss in Pocket" = "Desactivar en el Bolsillo";
+"Reshow when taken out from pocket" = "Mostrar al sacar del Bolsillo";
 
-"Pixel Shift" = "Pixel Shift";
-"Shift Value (per minute)" = "Shift Value (per minute)";
-"Reset After (minute)" = "Reset After (minute)";
-"Disable Pixel Shift" = "Disable Pixel Shift";
-"Disabling pixel shift may cause burn-in." = "Disabling pixel shift may cause burn-in.";
+"Pixel Shift" = "Acomodar Pixeles";
+"Shift Value (per minute)" = "Valor de Pixeles (Por Minuto)";
+"Reset After (minute)" = "Reiniciar después de (Minutos);
+"Disable Pixel Shift" = "Desactivar Acomodar Pixeles";
+"Disabling pixel shift may cause burn-in." = "Desactivar Acomodar Pixeles podría Causar Sobrecalentamiento";
 
-"Others" = "Others";
-"Show Statusbar" = "Show Statusbar";
-"Hide When Low Battery" = "Hide When Low Battery";
+"Others" = "Otros";
+"Show Statusbar" = "Mostrar Barra de Estado";
+"Hide When Low Battery" = "Desabilitar cuando la batería este Baja";
 
-"Dismiss Timer" = "Dismiss Timer";
-"Dismiss Timer (While Charging)" = "Dismiss Timer (While Charging)";
+"Dismiss Timer" = "Desactivar Contador";
+"Dismiss Timer (While Charging)" = "Desactivar Contador (Mientras Carga)";
 
-"Font" = "Font";
-"Select Font" = "Select Font";
-"Default font: AppleSDGothicNeo-Light" = "Default font: AppleSDGothicNeo-Light";
+"Font" = "Fuente";
+"Select Font" = "Seleccionar Fuente";
+"Default font: AppleSDGothicNeo-Light" = "Fuente Por defecto: AppleSDGothicNeo-Light";
 
 }
