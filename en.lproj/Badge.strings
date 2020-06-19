@@ -1,6 +1,6 @@
 {
-    "Icon Badge" = "Icon Badge";
-    "Show Icon Badge" = "Show Icon Badge";
-    "Use Icon Color" = "Use Icon Color";
-    "Reverse Color" = "Reverse Color";
+    "Icon Badge" = "Íconos de avisos";
+    "Show Icon Badge" = "Mostrar Íconos de Avisos";
+    "Use Icon Color" = "Usar Color de Ícono";
+    "Reverse Color" = "Revertir Color";
 }
