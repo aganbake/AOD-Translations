@@ -1,8 +1,8 @@
 {
-    "Alarm Label" = "Alarm Label";
-    "Show (iOS13)" = "Show (iOS13)";
-    "Font Size" = "Font Size";
-    "Text: " = "Text: ";
-    "Label Position (Y)" = "Label Position (Y)";
-    "Save" = "Save";
+    "Alarm Label" = "Nombre de Alarma";
+    "Show (iOS13)" = "Mostrar (iOS13)";
+    "Font Size" = "Tamaño de Fuente";
+    "Text: " = "Texto: ";
+    "Label Position (Y)" = "Pocisión del Nombre (Y)";
+    "Save" = "Guardar";
 }
