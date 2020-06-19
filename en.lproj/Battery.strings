@@ -1,9 +1,9 @@
 {
-    "Battery" = "Battery";
-    "Show battery level" = "Show Battery Level";
-    "Prefix:" = "Prefix:";
-    "Save" = "Save";
-    "Font Size" = "Font Size";
-    "Label Position (Y)" = "Label Position (Y)";
-    "Suffix (While Charging):" = "Suffix (While Charging):";
+    "Battery" = "Batería";
+    "Show battery level" = "Mostrar Nivel de Batería";
+    "Prefix:" = "Prefijo:";
+    "Save" = "Guardar";
+    "Font Size" = "Tamaño de Fuente";
+    "Label Position (Y)" = "Posición de nombre (Y)";
+    "Suffix (While Charging):" = "Sufijo (Mientras Carga):";
 }
