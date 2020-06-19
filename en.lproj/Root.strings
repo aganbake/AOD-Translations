@@ -1,45 +1,45 @@
 {
-"Enable" = "Enable";
-"Some changes require to respring" = "Some changes require to respring";
+"Enable" = "Hábilitar";
+"Some changes require to respring" = "Algunos Cambios Requieren Respring";
 
-"Options" = "Options";
+"Options" = "Opciones";
 "General" = "General";
-"Gestures" = "Gestures";
-"To use 'raise to wake' option, you should enable it from 'Display and Brightness' settings" = "To use 'raise to wake' option, you should enable it from 'Display and Brightness' settings";
+"Gestures" = "Gestos";
+"To use 'raise to wake' option, you should enable it from 'Display and Brightness' settings" = "Para usar la opción 'Alzar Para Despertar', debes habilitarlo desde 'Pantalla & Brillo' en Ajustes"; 
 
-"Labels" = "Labels";
-"Date and Time" = "Date and Time";
-"Battery" = "Battery";
-"Music" = "Music";
-"Weather" = "Weather";
-"Alarm Label" = "Alarm Label";
-"Custom Label" = "Custom Label";
-"Label Color" = "Label Color";
+"Labels" = "Etiquetas";
+"Date and Time" = "Fecha y Hora";
+"Battery" = "Batería";
+"Music" = "Música";
+"Weather" = "Clima";
+"Alarm Label" = "Etiqueta de Alarma";
+"Custom Label" = "Etiqueta Personalizada";
+"Label Color" = "Color de Etiqueta";
 
-"Notifications" = "Notifications";
-"Use Default Icon" = "Use Default Icon";
-"Dots" = "Dots";
-"Icons" = "Icons";
-"Icon Badge" = "Icon Badges";
-"Border" = "Border";
-"Select apps to exclude..." = "Select apps to exclude...";
+"Notifications" = "Notificaciones";
+"Use Default Icon" = "Usar Ícono por defecto";
+"Dots" = "Puntos";
+"Icons" = "Íconos";
+"Icon Badge" = "Íconos de Notificaciones";
+"Border" = "Birdes";
+"Select apps to exclude..." = "Seleccionar aplicaciones a excluir...";
 
-"Test Notification does not show border." = "Test Notification does not show border.";
+"Test Notification does not show border." = "En Notificaciones de Prueba no se Muestran Bordes.";
 
-"Extra" = "Extra";
-"Charging Animation" = "Charging Animation";
-"Move Elements" = "Move Elements";
-"Test Notification" = "Test Notification";
+"Extra" = "Extras";
+"Charging Animation" = "Animación al Cargar";
+"Move Elements" = "Movee Elementos";
+"Test Notification" = "Notifiación de Prueba";
 
-"Backup and Restore" = "Backup and Restore";
-"Backup" = "Backup";
-"Restore" = "Restore";
+"Backup and Restore" = "Copia de Seguridad & Restaurar";
+"Backup" = "Copia de Seguridad";
+"Restore" = "Restaurar";
 
-"Report Bugs or Contact" = "Report Bugs or Contact";
-"Try resetting the settings before contacting me" = "Try resetting the settings before contacting me";
-"Buy me a coffee?" = "Buy me a coffee?";
+"Report Bugs or Contact" = "Reportar Bugs o Contactar";
+"Try resetting the settings before contacting me" = "Intenta Reiniciar los Ajustes antes de Contactar";
+"Buy me a coffee?" = "Me compras un Café?";
 "Paypal" = "Paypal";
-"Help translating" = "Help translating";
+"Help translating" = "Ayudas a Traducir?";
 "Respring" = "Respring";
-"Reset All Settings" = "Reset All Settings";
+"Reset All Settings" = "Reiniciar Los Ajustes";
 }
