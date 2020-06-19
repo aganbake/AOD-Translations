@@ -4,12 +4,12 @@
     "Show Liquid" = "Mostrar Líquido";
     "Liquid Color" = "Color del Líquido";
     "Liquid Alpha" = "Líquido Principal";
-    "Hide Liquid Animation when Fully Charged" = "Esconder animación del líquido al completar la carga";
+    "Hide Liquid Animation when Fully Charged" = "Esconder animación del Líquido al Completar la Carga";
     "Show Bubble" = "Mostrar burbujas";
     "Charging Animation" = "Animación al Cargar";
     "Use Randomized Color" = "Usar color al azar";
     "Bubble Color" = "Color de burbujas";
     "Bubble Amount" = "Cantidad de burbujas";
-    "Changing bubble amount may help saving resource consumption" = "Cambiar la cantidad de burbujas podría disminuir el consumo de recursos";
-    "Enable 'Hide Liquid Animation when Fully Charged' option to avoid burn-in" = "'Habilitar 'Esconder animación del líquido cuando finalice la carga' opción para evitar el sobrecalentamiento'";
+    "Changing bubble amount may help saving resource consumption" = "Cambiar la Cantidad de Burbujas podría disminuir el consumo de recursos";
+    "Enable 'Hide Liquid Animation when Fully Charged' option to avoid burn-in" = "'Habilitar opción 'Esconder animación del líquido cuando finalice la carga' para evitar el sobrecalentamiento'";
 }
