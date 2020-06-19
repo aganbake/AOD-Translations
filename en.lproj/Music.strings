@@ -1,31 +1,31 @@
 {
-    "Music" = "Music";
-    "Stock Player" = "Stock Player";
-    "Show Stock Player" = "Show Stock Player";
-    "Position (X)" = "Position (X)";
-    "Position (Y)" = "Position (Y)";
+    "Music" = "Música";
+    "Stock Player" = "Reproductor por Defecto";
+    "Show Stock Player" = "Mostrar Reproductor por de Defecto";
+    "Position (X)" = "Pocisión (X)";
+    "Position (Y)" = "Pocisión (Y)";
 
-    "AOD's Player" = "AOD's Player";
+    "AOD's Player" = "Reproductor de AOD";
 
 
-    "Show Now Playing Label" = "Show Now Playing Label";
+    "Show Now Playing Label" = "Mostrar Etiqueta Reproduciendo Ahora";
 
-    "Default Text:" = "Default Text:";
-    "Save" = "Save";
+    "Default Text:" = "Etiqueta por Defecto:";
+    "Save" = "Guardar";
 
-    "Label Position (Y)" = "Label Position (Y)";
+    "Label Position (Y)" = "Pocisión de Etiqueta (Y)";
 
-    "Artwork" = "Artwork";
-    "Show Artwork" = "Show Artwork";
-    "Artwork Size" = "Artwork Size";
-    "Artwork Position (X)" = "Artwork Position (X)";
-    "Artwork Position (Y)" = "Artwork Position (Y)";
-    "Font Size" = "Font Size";
+    "Artwork" = "Carátula";
+    "Show Artwork" = "Mostrar Carátula";
+    "Artwork Size" = "Tamaño de Carátula";
+    "Artwork Position (X)" = "Pocisión de Carátula (X)";
+    "Artwork Position (Y)" = "Pocisión de Carátula (Y)";
+    "Font Size" = "Tamaño de Fuente";
 
-    "Media Controls" = "Media Controls";
-    "Show Media Controls" = "Show Media Controls";
-    "Hide if no now playing apps" = "Hide if no now playing apps";
-    "Linear Style" = "Linear Style";
-    "Size" = "Size";
-    "Space Between Buttons" = "Space Between Buttons";
+    "Media Controls" = "Controles Multimedia";
+    "Show Media Controls" = "Mostrar Controles Multimedia";
+    "Hide if no now playing apps" = "Esconder si no se está reproduciendo Música";
+    "Linear Style" = "Estilo Lineal";
+    "Size" = "Tamaño";
+    "Space Between Buttons" = "Espacio Entre Bótones";
 }
