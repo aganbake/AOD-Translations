@@ -1,8 +1,8 @@
 {
-    "Border" = "Border";
-    "Show" = "Show";
-    "Use Icon Color" = "Use Icon Color";
-    "Use Randomized Color" = "Use Randomized Color";
-    "Repeat Count" = "Repeat Count";
-    "Border Width" = "Border Width";
+    "Border" = "Bordes";
+    "Show" = "Mostrar";
+    "Use Icon Color" = "Usar color de Ícono";
+    "Use Randomized Color" = "Usar Color al Azar";
+    "Repeat Count" = "Repetir Conteo";
+    "Border Width" = "Ancho del Borde";
 }
