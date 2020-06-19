@@ -1,10 +1,10 @@
 {
-    "Weather" = "Weather";
-    "Show" = "Show";
-    "Text:" = "Text:";
-    "Font Size" = "Font Size";
-    "Label Position (Y)" = "Label Position (Y)";
-    "Save" = "Save";
-    "HOWTOUSE" = "Available: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n to line break\nIf it shows 'null', you may have to enable location service for system and weather app, and setting from weather app.";
-    "To show Fahrenheit value, you have to set it from stock Weather app" = "To show Fahrenheit value, you have to set it from stock Weather app";
+    "Weather" = "Clima";
+    "Show" = "Mostrar";
+    "Text:" = "Texto:";
+    "Font Size" = "Tamaño de Fuente";
+    "Label Position (Y)" = "Pocisión de Etiquetas (Y)";
+    "Save" = "Guardar";
+    "HOWTOUSE" = "Disponibilidad: {city}, {condition}, {shortCondition}, {windSpeed}, {humidity}, {temp}, {feelsLike}, {high}, {low} \n \\n para salto de linea\nSi Se muestra 'null', tendrás que habilitar localización en la apliación de clima, y configurarlo desde la misma apliación.";
+    "To show Fahrenheit value, you have to set it from stock Weather app" = "Para Habilitar El Fahrenheit, tienes que configurarlo desde la apliación de clima de iOS";
 }
