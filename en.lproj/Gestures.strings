@@ -1,11 +1,11 @@
 {
-    "Gestures" = "Gestures";
-    "Tap to unlock" = "Tap to unlock";
-    "Single" = "Single";
-    "Double" = "Double";
-    "Swipe Up to Unlock" = "Swipe Up to Unlock";
-    "Swipe Right to Flashlight" = "Swipe Right to Flashlight";
-    "Swipe Left to Camera" = "Swipe Left to Camera";
-    "Lift to wake" = "Lift to wake";
-    "To use lift to wake feature, you have to enable it on stock iOS settings" = "To use lift to wake feature, you have to enable it on stock iOS settings";
+    "Gestures" = "Gestos";
+    "Tap to unlock" = "Tocar Para Desbloquear";
+    "Single" = "Una Vez";
+    "Double" = "Dos Veces";
+    "Swipe Up to Unlock" = "Deslizar Arriba Para Desbloquear";
+    "Swipe Right to Flashlight" = "Deslizar a La Derecha para Activar Linterna";
+    "Swipe Left to Camera" = "Deslizar a La Izquierda Para Activar Cámara";
+    "Lift to wake" = "Alzar para Despertar";
+    "To use lift to wake feature, you have to enable it on stock iOS settings" = "Para Usar la opción de alzar para Despertar, tienes que habilitarla pr defecto en ajustes de iOS";
 }
