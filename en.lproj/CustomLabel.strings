@@ -1,8 +1,8 @@
 {
-    "Custom Label" = "Custom Label";
-    "Show" = "Show";
-    "Font Size" = "Font Size";
-    "Label Position (X)" = "Label Position (X)";
-    "Label Position (Y)" = "Label Position (Y)";
-    "Save" = "Save";
+    "Custom Label" = "Nombre Personalizado";
+    "Show" = "Mostrar";
+    "Font Size" = "Tamaño de Fuentee";
+    "Label Position (X)" = "Posición de Nombre (X)";
+    "Label Position (Y)" = "Posición de Nombre (Y)";
+    "Save" = "Guardar";
 }
